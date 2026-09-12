@@ -18,6 +18,5 @@ The page includes a sticky navigation bar, hero section, CTA buttons, dashboard 
 
 ```text
 project-workspace/
-│
 ├── index.html
 └── README.md
